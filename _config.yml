@@ -1,0 +1,13 @@
+theme: jekyll-theme-minimal
+title: Sarah Fazio
+description: My personal website
+lsi: false
+safe: true
+source: []
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
